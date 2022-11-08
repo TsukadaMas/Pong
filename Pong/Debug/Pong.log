@@ -1,0 +1,6 @@
+﻿  GameEngine.cpp
+D:\3rd Year\semester  1\Game Engineering\Assignment 1\Pong\Pong\GameEngine.cpp(42,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\3rd Year\semester  1\Game Engineering\Assignment 1\Pong\Pong\GameEngine.cpp(49,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\3rd Year\semester  1\Game Engineering\Assignment 1\Pong\Pong\GameEngine.cpp(55,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\3rd Year\semester  1\Game Engineering\Assignment 1\Pong\Pong\GameEngine.cpp(56,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Pong.vcxproj -> D:\3rd Year\semester  1\Game Engineering\Assignment 1\Pong\Debug\Pong.exe
